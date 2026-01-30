@@ -94,3 +94,19 @@ The Power BI dashboard provides:
 ### Python  
 ```bash
 pip install pandas numpy matplotlib seaborn
+### SQL
+- Import cleaned data into PostgreSQL, MySQL, or SQL Server  
+- Execute queries from the `sql/` directory  
+
+### Power BI
+- Open the `.pbix` file in Power BI Desktop  
+- Refresh data sources if required  
+---
+
+## Skills Demonstrated
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Preprocessing  
+- SQL Querying & Relational Databases  
+- Power BI Dashboard Development  
+- Business Reporting & Presentation  
+
